@@ -157,14 +157,6 @@ This project was developed collaboratively by a team of passionate developers to
 
 ---
 
-## 💡 Future Improvements
-
-* Add AI-powered trip planners
-* Enable chat with local guides
-* Improve mobile responsiveness
-* Add offline mode for travelers
-
----
 
 > 🧭 *"Travel not to escape life, but so life doesn’t escape you."* — **YatriSaarthi Team**
 
