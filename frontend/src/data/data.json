@@ -1,0 +1,30 @@
+[
+  {
+      "name": "Prayagraj",
+      "festival": "Kumbh Mela",
+      "description": "Witness and attain the biggest of enlightenments in the city of Ganga mata.",
+      "cardImage1": "/YatriSarthi/kumbh-mela.jpg",
+      "cardImage2": "/YatriSarthi/kumbh-mela.jpg",
+      "cardImage3": "/YatriSarthi/kumbh-mela.jpg",
+      "cardImage4": "/YatriSarthi/kumbh-mela.jpg",
+      "cardImage5": "/YatriSarthi/kumbh-mela.jpg",
+      "cardImage6": "/YatriSarthi/kumbh-mela.jpg",
+      "images": [
+          "/YatriSarthi/kumbh-mela.jpg"
+      ]
+  },
+  {
+      "name": "Kolkata",
+      "festival": "Durga Pooja Festival",
+      "description": "Experience the vibrant colors of the royal city of Jaipur.",
+      "cardImage1": "/YatriSarthi/durga-puja.jpg",
+      "cardImage2": "/YatriSarthi/durga-puja.jpg",
+      "cardImage3": "/YatriSarthi/durga-puja.jpg",
+      "cardImage4": "/YatriSarthi/durga-puja.jpg",
+      "cardImage5": "/YatriSarthi/durga-puja.jpg",
+      "cardImage6": "/YatriSarthi/durga-puja.jpg",
+      "images": [
+          "/YatriSarthi/durga-puja.jpg"
+      ]
+  }
+]
