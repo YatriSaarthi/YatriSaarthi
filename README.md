@@ -39,7 +39,7 @@ YatriSaarthi/
 - 🧭 **Local Guides & Recommendations** – Connect with locals for unique and reliable travel experiences.
 - 🏨 **Hotels & Restaurants Info** – Discover where to stay and eat based on real traveler insights.
 - 🛠️ **Admin & Contributor Panels** – Add or manage festivals, tourist places, images, and tips.
-- 🌐 **Real-time Local Updates** – Powered by Firebase and MongoDB to keep data fresh and dynamic.
+- 🌐 **Real-time Local Updates** – Powered by MongoDB to keep data fresh and dynamic.
 
 ---
 
@@ -48,6 +48,8 @@ YatriSaarthi/
 The following screenshots demonstrate key UI and features of the **YatriSaarthi** platform.
 
 ### 🔹 App Views & Features
+
+#### 🔹User Interface
 
 ![Image](https://github.com/user-attachments/assets/385e05c5-6a95-4b8b-9e21-0ed10176b1d2)
 
@@ -74,6 +76,8 @@ The following screenshots demonstrate key UI and features of the **YatriSaarthi*
 ![Image](https://github.com/user-attachments/assets/c6c299c5-ca60-4733-b016-0995318415cb)
 
 ![Image](https://github.com/user-attachments/assets/598a96f6-9574-4433-ac3a-8fc2466ae0e2)
+
+#### 🔹 Guide Interface
 
 <img width="1901" height="854" alt="Image" src="https://github.com/user-attachments/assets/cd375297-b4d5-42ee-8fe5-0eeff2d75ec3" />
 
@@ -104,8 +108,7 @@ The following screenshots demonstrate key UI and features of the **YatriSaarthi*
 - Node.js, Express.js
 
 **Database & Auth:**
-- Firebase (Authentication & Hosting)
-- MongoDB & MySQL (Data Storage)
+- MongoDB 
 
 ---
 
