@@ -49,7 +49,7 @@ The following screenshots demonstrate key UI and features of the **YatriSaarthi*
 
 ### 🔹 App Views & Features
 
-#### 🔹User Interface
+#### 🔹User Interface <hr>
 
 ![Image](https://github.com/user-attachments/assets/385e05c5-6a95-4b8b-9e21-0ed10176b1d2)
 
@@ -77,7 +77,7 @@ The following screenshots demonstrate key UI and features of the **YatriSaarthi*
 
 ![Image](https://github.com/user-attachments/assets/598a96f6-9574-4433-ac3a-8fc2466ae0e2)
 
-#### 🔹 Guide Interface
+#### 🔹 Guide Interface <hr>
 
 <img width="1889" height="841" alt="Image" src="https://github.com/user-attachments/assets/9194afef-56ee-4256-af4a-056dbc0d28c4" />
 
@@ -88,6 +88,7 @@ The following screenshots demonstrate key UI and features of the **YatriSaarthi*
 <img width="1888" height="844" alt="Image" src="https://github.com/user-attachments/assets/dcc12049-8e23-426c-b606-34230b34bbb0" />
 
 <img width="1886" height="851" alt="Image" src="https://github.com/user-attachments/assets/5f39905f-4078-4df7-ad46-5af3b1548c76" />
+<hr>
 
 <img width="1886" height="851" alt="Image" src="https://github.com/user-attachments/assets/50f23289-5a7c-4445-8991-8a9dd06ccb69" />
 
