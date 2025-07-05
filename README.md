@@ -1,10 +1,4 @@
-Absolutely! Here's your **complete and corrected `README.md`** — formatted properly for GitHub, with image rendering, correct project structure, and everything in place.
 
-> ✅ You can directly copy-paste the entire content below into your `README.md` file.
-
----
-
-```markdown
 # 🌍 YatriSaarthi: Connecting Travellers with Local Experiences
 
 **YatriSaarthi** is a full-stack travel web platform that connects travelers with local communities to create authentic and immersive journeys. It enables solo and group travelers to discover local insights, events, guides, and places while empowering locals by creating job opportunities and cultural bridges.
@@ -157,9 +151,3 @@ This project was developed collaboratively by a team of passionate developers to
 
 > 🧭 *"Travel not to escape life, but so life doesn’t escape you."* — **YatriSaarthi Team**
 
-```
-
----
-
-✅ Paste this into your `README.md` file and commit it. If you want image **grid layout**, **collapsible sections**, or enhanced styles later — just let me know!
-```
