@@ -79,21 +79,27 @@ The following screenshots demonstrate key UI and features of the **YatriSaarthi*
 
 #### 🔹 Guide Interface
 
-<img width="1901" height="854" alt="Image" src="https://github.com/user-attachments/assets/cd375297-b4d5-42ee-8fe5-0eeff2d75ec3" />
-
-<img width="1901" height="857" alt="Image" src="https://github.com/user-attachments/assets/0a100e2b-8194-4487-8f9b-eed9d8b88491" />
-
-<img width="1886" height="851" alt="Image" src="https://github.com/user-attachments/assets/50f23289-5a7c-4445-8991-8a9dd06ccb69" />
-
-<img width="1886" height="851" alt="Image" src="https://github.com/user-attachments/assets/5f39905f-4078-4df7-ad46-5af3b1548c76" />
-
-<img width="1888" height="844" alt="Image" src="https://github.com/user-attachments/assets/dcc12049-8e23-426c-b606-34230b34bbb0" />
-
-<img width="1887" height="858" alt="Image" src="https://github.com/user-attachments/assets/22e513c6-e212-4224-956a-ae1fc044f6b6" />
+<img width="1889" height="841" alt="Image" src="https://github.com/user-attachments/assets/9194afef-56ee-4256-af4a-056dbc0d28c4" />
 
 <img width="1870" height="848" alt="Image" src="https://github.com/user-attachments/assets/f817b097-96f2-4de1-a0b5-23c447de5dad" />
 
-<img width="1889" height="841" alt="Image" src="https://github.com/user-attachments/assets/9194afef-56ee-4256-af4a-056dbc0d28c4" />     
+<img width="1887" height="858" alt="Image" src="https://github.com/user-attachments/assets/22e513c6-e212-4224-956a-ae1fc044f6b6" />
+
+<img width="1888" height="844" alt="Image" src="https://github.com/user-attachments/assets/dcc12049-8e23-426c-b606-34230b34bbb0" />
+
+<img width="1886" height="851" alt="Image" src="https://github.com/user-attachments/assets/5f39905f-4078-4df7-ad46-5af3b1548c76" />
+
+<img width="1886" height="851" alt="Image" src="https://github.com/user-attachments/assets/50f23289-5a7c-4445-8991-8a9dd06ccb69" />
+
+<img width="1901" height="857" alt="Image" src="https://github.com/user-attachments/assets/0a100e2b-8194-4487-8f9b-eed9d8b88491" />
+
+<img width="1901" height="854" alt="Image" src="https://github.com/user-attachments/assets/cd375297-b4d5-42ee-8fe5-0eeff2d75ec3" />
+
+
+
+
+
+     
 
 ---
 
