@@ -47,7 +47,7 @@ YatriSaarthi/
 
 The following screenshots demonstrate key UI and features of the **YatriSaarthi** platform.
 
-### 🔹 App Views & Features
+### 🔹 Website Views & Features
 
 #### 🔹User Interface <hr>
 
